@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/imvan2/product-preview-card)
+- Live Site URL: [Live](https://imvan2.github.io/product-preview-card/)
 
 ## My process
 

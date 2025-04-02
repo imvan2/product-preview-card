@@ -134,7 +134,7 @@ button {
   width: 100%;
   height: 50px;
   background-color: base.$primary-green;
-  border-color: inherit;
+  border-color: base.$primary-green;
   border-radius: 12px;
   display: flex;
   justify-content: center;
@@ -151,10 +151,12 @@ button {
 
   &:hover {
     background-color: base.$secondary-green;
+    border-color: base.$secondary-green;
   }
 
   &:active {
     background-color: base.$primary-green;
+    border-color: base.$primary-green;
   }
 }
 
