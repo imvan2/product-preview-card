@@ -12,7 +12,7 @@
   color: $font-color;
 }
 
-.card {
+main {
   display: flex;
   flex-direction: column;
   margin: 16px;
@@ -163,7 +163,7 @@ button {
   height: auto;
 }
 
-.attributes {
+footer {
   padding: 8px 0px;
   margin: 0px 16px;
   text-align: center;
